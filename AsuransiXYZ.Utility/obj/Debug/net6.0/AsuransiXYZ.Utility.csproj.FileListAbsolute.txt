@@ -1,0 +1,12 @@
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.Utility\bin\Debug\net6.0\AsuransiXYZ.Utility.deps.json
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.Utility\bin\Debug\net6.0\AsuransiXYZ.Utility.dll
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.Utility\bin\Debug\net6.0\AsuransiXYZ.Utility.pdb
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.Utility\obj\Debug\net6.0\AsuransiXYZ.Utility.csproj.AssemblyReference.cache
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.Utility\obj\Debug\net6.0\AsuransiXYZ.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.Utility\obj\Debug\net6.0\AsuransiXYZ.Utility.AssemblyInfoInputs.cache
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.Utility\obj\Debug\net6.0\AsuransiXYZ.Utility.AssemblyInfo.cs
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.Utility\obj\Debug\net6.0\AsuransiXYZ.Utility.csproj.CoreCompileInputs.cache
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.Utility\obj\Debug\net6.0\AsuransiXYZ.Utility.dll
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.Utility\obj\Debug\net6.0\refint\AsuransiXYZ.Utility.dll
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.Utility\obj\Debug\net6.0\AsuransiXYZ.Utility.pdb
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.Utility\obj\Debug\net6.0\ref\AsuransiXYZ.Utility.dll

@@ -1,0 +1,424 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web.csproj",
+        "projectName": "AnsuransiXYZ.Web",
+        "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web.csproj",
+        "packagesPath": "C:\\Users\\1740\\.nuget\\packages\\",
+        "outputPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1740\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Providers\\AsuransiXYZ.Provider.csproj": {
+                "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Providers\\AsuransiXYZ.Provider.csproj"
+              },
+              "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.ViewModel\\AsuransiXYZ.ViewModel.csproj": {
+                "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.ViewModel\\AsuransiXYZ.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.DataAcces\\AsuransiXYZ.DataAcces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.DataAcces\\AsuransiXYZ.DataAcces.csproj",
+        "projectName": "AsuransiXYZ.DataAcces",
+        "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.DataAcces\\AsuransiXYZ.DataAcces.csproj",
+        "packagesPath": "C:\\Users\\1740\\.nuget\\packages\\",
+        "outputPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.DataAcces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1740\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Providers\\AsuransiXYZ.Provider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Providers\\AsuransiXYZ.Provider.csproj",
+        "projectName": "AsuransiXYZ.Provider",
+        "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Providers\\AsuransiXYZ.Provider.csproj",
+        "packagesPath": "C:\\Users\\1740\\.nuget\\packages\\",
+        "outputPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Providers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1740\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Repository\\AsuransiXYZ.Repository.csproj": {
+                "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Repository\\AsuransiXYZ.Repository.csproj"
+              },
+              "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Utility\\AsuransiXYZ.Utility.csproj": {
+                "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Utility\\AsuransiXYZ.Utility.csproj"
+              },
+              "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.ViewModel\\AsuransiXYZ.ViewModel.csproj": {
+                "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.ViewModel\\AsuransiXYZ.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Repository\\AsuransiXYZ.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Repository\\AsuransiXYZ.Repository.csproj",
+        "projectName": "AsuransiXYZ.Repository",
+        "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Repository\\AsuransiXYZ.Repository.csproj",
+        "packagesPath": "C:\\Users\\1740\\.nuget\\packages\\",
+        "outputPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1740\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.DataAcces\\AsuransiXYZ.DataAcces.csproj": {
+                "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.DataAcces\\AsuransiXYZ.DataAcces.csproj"
+              },
+              "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Utility\\AsuransiXYZ.Utility.csproj": {
+                "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Utility\\AsuransiXYZ.Utility.csproj"
+              },
+              "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.ViewModel\\AsuransiXYZ.ViewModel.csproj": {
+                "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.ViewModel\\AsuransiXYZ.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Utility\\AsuransiXYZ.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Utility\\AsuransiXYZ.Utility.csproj",
+        "projectName": "AsuransiXYZ.Utility",
+        "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Utility\\AsuransiXYZ.Utility.csproj",
+        "packagesPath": "C:\\Users\\1740\\.nuget\\packages\\",
+        "outputPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1740\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.ViewModel\\AsuransiXYZ.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.ViewModel\\AsuransiXYZ.ViewModel.csproj",
+        "projectName": "AsuransiXYZ.ViewModel",
+        "projectPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.ViewModel\\AsuransiXYZ.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\1740\\.nuget\\packages\\",
+        "outputPath": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AsuransiXYZ.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1740\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

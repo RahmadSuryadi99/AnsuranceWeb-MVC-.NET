@@ -1,0 +1,12 @@
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.ViewModel\bin\Debug\net6.0\AsuransiXYZ.ViewModel.deps.json
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.ViewModel\bin\Debug\net6.0\AsuransiXYZ.ViewModel.dll
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.ViewModel\bin\Debug\net6.0\AsuransiXYZ.ViewModel.pdb
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.ViewModel\obj\Debug\net6.0\AsuransiXYZ.ViewModel.csproj.AssemblyReference.cache
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.ViewModel\obj\Debug\net6.0\AsuransiXYZ.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.ViewModel\obj\Debug\net6.0\AsuransiXYZ.ViewModel.AssemblyInfoInputs.cache
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.ViewModel\obj\Debug\net6.0\AsuransiXYZ.ViewModel.AssemblyInfo.cs
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.ViewModel\obj\Debug\net6.0\AsuransiXYZ.ViewModel.csproj.CoreCompileInputs.cache
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.ViewModel\obj\Debug\net6.0\AsuransiXYZ.ViewModel.dll
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.ViewModel\obj\Debug\net6.0\refint\AsuransiXYZ.ViewModel.dll
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.ViewModel\obj\Debug\net6.0\AsuransiXYZ.ViewModel.pdb
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.ViewModel\obj\Debug\net6.0\ref\AsuransiXYZ.ViewModel.dll

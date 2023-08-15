@@ -1,0 +1,14 @@
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\bin\Debug\net6.0\AsuransiXYZ.DataAcces.deps.json
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\bin\Debug\net6.0\AsuransiXYZ.DataAcces.runtimeconfig.json
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\bin\Debug\net6.0\AsuransiXYZ.DataAcces.dll
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\bin\Debug\net6.0\AsuransiXYZ.DataAcces.pdb
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\obj\Debug\net6.0\AsuransiXYZ.DataAcces.csproj.AssemblyReference.cache
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\obj\Debug\net6.0\AsuransiXYZ.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\obj\Debug\net6.0\AsuransiXYZ.DataAcces.AssemblyInfoInputs.cache
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\obj\Debug\net6.0\AsuransiXYZ.DataAcces.AssemblyInfo.cs
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\obj\Debug\net6.0\AsuransiXYZ.DataAcces.csproj.CoreCompileInputs.cache
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\obj\Debug\net6.0\AsuransiXYZ.DataAcces.dll
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\obj\Debug\net6.0\refint\AsuransiXYZ.DataAcces.dll
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\obj\Debug\net6.0\AsuransiXYZ.DataAcces.pdb
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\obj\Debug\net6.0\AsuransiXYZ.DataAcces.genruntimeconfig.cache
+D:\BC35\Persiapan Interview\AnsuransiXYZ.Web\AsuransiXYZ.DataAcces\obj\Debug\net6.0\ref\AsuransiXYZ.DataAcces.dll
