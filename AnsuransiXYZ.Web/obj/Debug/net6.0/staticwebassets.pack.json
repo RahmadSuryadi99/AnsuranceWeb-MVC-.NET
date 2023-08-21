@@ -5,8 +5,724 @@
       "PackagePath": "staticwebassets\\AnsuransiXYZ.Web.bundle.scp.css"
     },
     {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\css\\black-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\black-dashboard.css"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\css\\black-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\black-dashboard.css.map"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\css\\black-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\black-dashboard.min.css"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\demo\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.css"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\demo\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.js"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\12345.png",
+      "PackagePath": "staticwebassets\\assets\\img\\12345.png"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\anime3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\anime3.png"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\anime6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\anime6.png"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\bg5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg5.jpg"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\default-avatar.png"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\emilyz.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\emilyz.jpg"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\header.jpg"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\img_3115.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\img_3115.jpg"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\james.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\james.jpg"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\mike.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\mike.jpg"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\img\\now-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\now-logo.png"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\js\\black-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\black-dashboard.js"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\js\\black-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\black-dashboard.js.map"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\js\\black-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\black-dashboard.min.js"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\js\\core\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_alerts.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_card.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_checkboxes-radio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_checkboxes-radio.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_example-pages.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_example-pages.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_footer.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_forms.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_functions.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_images.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_misc.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_modal.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_tables.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_type.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_white-content.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_white-content.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\cards\\_card-chart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\cards\\_card-chart.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\cards\\_card-map.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\cards\\_card-map.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\cards\\_card-plain.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\cards\\_card-plain.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\cards\\_card-task.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\cards\\_card-task.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\cards\\_card-user.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\cards\\_card-user.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_icon.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_icon.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_modals.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_modals.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_page-header.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_wizard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_wizard.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\opacity.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\opacity.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_backgrounds.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_backgrounds.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_floating.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_floating.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_helper.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_helper.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_transform.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_transform.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\vendor\\_plugin-animate-bootstrap-notify.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\vendor\\_plugin-animate-bootstrap-notify.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\custom\\vendor\\_plugin-perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\vendor\\_plugin-perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\assets\\scss\\black-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\plugins\\_plugin-perfect-scrollbar.scss"
+    },
+    {
       "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\css\\tableStyle.css",
+      "PackagePath": "staticwebassets\\css\\tableStyle.css"
     },
     {
       "Id": "D:\\BC35\\Persiapan Interview\\AnsuransiXYZ.Web\\AnsuransiXYZ.Web\\wwwroot\\favicon.ico",

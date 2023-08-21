@@ -29,7 +29,7 @@ namespace AsuransiXYZ.Provider
                          {
                              NomorProspect = pros.IdProspect,
                              FullName = pros.FirstName + pros.LastName,
-                             BrithDate = pros.BirthDate.ToString("dd MMMM yyyyy"),
+                             BrithDate = pros.BirthDate.ToString("dd MMMM yyyy"),
                              BrithPlace = pros.BirthPlace,
                              Gender = pros.Gender.Equals("P") ? "Perempuan" : "Laki-Laki",
                              Pekerjaan = pros.Pekerjaan,
